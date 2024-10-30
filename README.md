@@ -10,4 +10,4 @@
 * Javascript
 
 ## Link:
-https://joao-carmassi.github.io/Fokus/
+https://joao-carmassi.github.io/fokus/
